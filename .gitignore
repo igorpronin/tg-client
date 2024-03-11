@@ -13,9 +13,6 @@ yarn.lock # similar to above, if you're not sharing it
 # Logs (if you're generating logs)
 logs/
 
-# dist
-dist/
-
 # Editors/IDEs
 .vscode/
 .idea/

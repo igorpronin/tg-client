@@ -1,10 +1,5 @@
 import axios from 'axios';
-
-type Params = {
-  token: string
-  admin_id: number
-  env: string
-}
+import {Params} from '../types/types';
 
 export class Telegram {
   private token: string;
