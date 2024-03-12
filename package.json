@@ -1,5 +1,5 @@
 {
-  "name": "tg-client",
+  "name": "@igorpronin/tg-client",
   "version": "1.0.0",
   "description": "Telegram client for internal purposes",
   "main": "dist/index.js",
