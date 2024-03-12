@@ -1,10 +1,10 @@
 {
   "name": "@igorpronin/tg-client",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Telegram client for internal purposes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "build": "tsc",
     "clear": "rm -rf ./dist",
